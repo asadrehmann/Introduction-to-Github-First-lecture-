@@ -8,7 +8,7 @@ I am going to create a first repository on my github account using github deskto
 
 \*\*In the first half of the course, my Professor is trying to build our foundation for using these soft tools. \*\*
 
-!\[my repository](image/image\_for\_mygihub)
+!\[my repository](image/image\_for\_mygihub.png)
 
 
 
